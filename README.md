@@ -1,4 +1,4 @@
-# Vietnamese-sign-language
+# Alphabet-sign-language
 <tbody>
 <tr>
 <td width="20%">
